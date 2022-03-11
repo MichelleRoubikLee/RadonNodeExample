@@ -1,0 +1,23 @@
+{
+  "name": "radonmodulesimportsnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelleRoubikLee/RadonNodeExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichelleRoubikLee/RadonNodeExample/issues"
+  },
+  "homepage": "https://github.com/MichelleRoubikLee/RadonNodeExample#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
